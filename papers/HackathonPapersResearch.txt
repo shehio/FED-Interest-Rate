@@ -1,0 +1,37 @@
+Extended Vasicek Model:
+-----------------------
+eprints.maths.ox.ac.uk/711/thesis_FA.pdf
+
+
+Model for Federal Funds Rate Target:
+------------------------------------
+www.nber.org/papers/w7847.pdf
+econweb.ucsd.edu/~jhamilto/jordec01.pdf
+
+
+
+Federal Funds Rate Target - Predictors:
+---------------------------------------
+
+Inflation Measures:
+-------------------
+-  GDP Deflator   -  http://www.multpl.com/gdp-deflator/table (1929-2018)
+-  CPI Index      -  https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/
+                     (1913-2008)
+-  Personal Consumption Expenditures Deflator  -  https://fred.stlouisfed.org/series/DPCERD3A086NBEA
+                            (1929-2017)
+-  Employment Cost Index  - https://www.bls.gov/ncs/ect/sp/echistry.txt
+                            (1980-2005)
+
+Output Measures:
+----------------
+-  Output Gap  -  
+-  GDP growth
+-  Total Capacity Utilization
+-  Unemployment Rate(Yearly)  - https://data.bls.gov/timeseries/LNU04000000?periods=Annual+Data&periods_option=specific_periods&years_option=all_years
+-  6 month treasury bill spread  (1947-2017)
+
+
+
+
+
