@@ -5,3 +5,6 @@ We chose features that we thought are related to predicting the interest rate.
 We ran OLS on the features with the interest rate as the response variable.
 The p-value for the Null hypothesis (the data comes from a Normal distribution) for every feature was equal to zero.
 Meaning the model features are correlated. Now we have to do a covariance matrix.
+A correlation matrix would be easier to understand as the numbers range from -1 to 1. We created a heat map which was a good way to visualize the correlation matrix.
+From the correlation matrix, we found that many of the features are correlated. We proceeded with feature selection. Looking at the p-values with one feature removed everytime. 
+Two features stood out: Unemployment and Inflation rate.
