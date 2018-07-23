@@ -1,0 +1,7 @@
+The plan:
+---------
+
+We chose features that we thought are related to predicting the interest rate.
+We ran OLS on the features with the interest rate as the response variable.
+The p-value for the Null hypothesis (the data comes from a Normal distribution) for every feature was equal to zero.
+Meaning the model features are correlated. Now we have to do a covariance matrix.
